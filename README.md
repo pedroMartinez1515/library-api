@@ -29,4 +29,4 @@ Para executar a aplicação, será necessário o download do projeto, instalaç�
 Observações gerais:
 - A funcionalidade de "Listar o titulo dos 3 livros mais alugados por cidade durante o ano (mostrar todos os meses do ano)" não foi finalizada. Portanto, está com bugs.
 - Na autenticação JWT não foi feito um login verdadeiro no banco, mas sim um login virtual a nível de código ( já que imaginei que não havia necessidade ).
-- Não criei models já que se tratava de um banco relacional e um projeto ficticio.
+- Não criei models.
